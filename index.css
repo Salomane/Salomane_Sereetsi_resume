@@ -1,0 +1,76 @@
+.cv {
+    text-align: center;
+    font-size:30px;
+    margin-bottom: 0%;
+    font-family:'Times New Roman', Times, serif;  
+}
+.name {
+    text-align: center;
+    font-size:20px;           
+    margin-top: 1%;
+
+}
+h5 {
+    font-size: large;            
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+.telNum {
+    margin-left: 70px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.email {
+    margin-left: 70px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.image {
+    width: 22rem;
+    height: 10rem;
+    
+    
+}
+.myLnkedin {
+    color: rgb(0, 136, 0);                      
+}
+.myLnkedin:hover {
+    color: rgb(199, 81, 31);            
+}
+.paragraph {
+    margin-left: 70px;
+    margin-top: 10px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.skills {
+    font-size: large;            
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+ol {
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.unsortedList {
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    margin-left: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.passion {
+    text-align: center;
+                          
+}
+body {            
+    background-color: #DBF9FC;
+}
+        
+             
+  
